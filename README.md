@@ -20,4 +20,4 @@ queueDestroy(new_queue);
 
 ```
 
-all functions can be found in the header file `queue.c`
+all functions can be found in the header file `queue.h`
